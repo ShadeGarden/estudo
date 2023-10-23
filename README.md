@@ -1,3 +1,5 @@
-# HTML-CSS-JAVASCRIT
-HTML-CSS-JAVASCRIT ESTUDANDO
-aqui onde eu voce começar a estudo sobre as liguagens HTML,CSS,JAVASCRIT para um novo Recomeço na minha vida
+#html-css-javascrit
+aqui serao colocado dos meus estudo nas luguegens que vou estudo sendo elas:
+HTML
+CSS
+JAVASCRIT....
