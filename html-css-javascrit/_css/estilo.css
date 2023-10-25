@@ -1,7 +1,7 @@
 @charset "utf-8";
 
 body {
-    background-color: white; /*cor de funda da pagina*/
+    background-color:white; /*cor de funda da pagina*/
     color: rgba(0 , 0 , 0, 1);/*cor da letra da pagina*/
 }
 /*a letra p presente a teg <p> paragrafos assim todos que tiver tag <p> serao afetados pelo comando abaixo do CSS*/
