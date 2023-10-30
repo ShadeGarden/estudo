@@ -32,5 +32,5 @@ nav#menu a {
 }
 nav#menu a:hover{
   color:#ffffff; /*mudar a cor do texto quando passa o mouse por cima*/
-  text-decoration: underline;
+  text-decoration: underline;/*deixa sublinhado quando passar o mouse por cima*/
 }
