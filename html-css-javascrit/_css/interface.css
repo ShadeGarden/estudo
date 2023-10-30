@@ -1,5 +1,20 @@
 @charset "utf-8";
 
-div#interface{
-    width:400px;
+body {
+    background-color:#dddddd; /*cor de funda da pagina*/
+    color: rgba(0 , 0 , 0, 1);/*cor da letra da pagina*/
 }
+
+div#interface{
+    width:900px;
+    background-color: #ffffff;
+    margin: -20px auto 0px auto; /*margens cima ,direita,baixo,esquerda*/
+    box-shadow: 0px 0px 10px rgba(0 , 0 , 0, .5);/*dar o efeito de folha */
+    padding: 10px;
+}
+
+
+
+
+
+
