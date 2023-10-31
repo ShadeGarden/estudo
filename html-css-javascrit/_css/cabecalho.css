@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+header#cabecalho {
+    border-bottom: 1px  #606060 solid; /* Altere a largura (1px) e a cor (#606060) conforme necessário */
+    height: 150px;
+    background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
+
+}

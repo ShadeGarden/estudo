@@ -10,7 +10,7 @@ nav#menu ul {
   text-transform: uppercase;
   position: absolute; /*pode coloca em qualquer lugar na pagina*/
   top: -20px; /*altura do menu*/
-  left: 300px; /*distancia do menu para esquerda*/
+  left: 500px; /*distancia do menu para esquerda*/
 }
 nav#menu li {
   display: inline-block; /* deixa menu em linha*/

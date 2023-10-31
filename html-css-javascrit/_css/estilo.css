@@ -6,6 +6,9 @@ p {
      text-indent: 50px; /* espaçamento do text com um ajuste de 50 pixels */
 }
 
+ 
+
+
 figure.foto-legenda{
 position: relative;    
 border: 8px solid white ;
